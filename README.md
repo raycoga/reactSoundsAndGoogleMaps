@@ -1,6 +1,6 @@
-<!-- Este proyecto no solo contiene un ejemplo de como ejecutar sonidos sino que tambien tiene un pequeño ejemplo de como colocar un mama de googlemaps -->
 
 
+Este proyecto no solo contiene un ejemplo de como ejecutar sonidos sino que tambien tiene un pequeño ejemplo de como colocar un mama de googlemaps
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
